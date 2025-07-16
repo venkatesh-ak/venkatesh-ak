@@ -37,33 +37,6 @@ Currently integrating: MongoDB
 
 ---
 
-## 📸 Screenshots & GIFs
-
-### 🏠 Home Page
-![Home Page](https://user-images.githubusercontent.com/your-username/home-page.png)
-
-### 🛍️ Product Listing (GIF)
-![Product Listing](https://user-images.githubusercontent.com/your-username/product-listing.gif)
-
-### 🛒 Cart Flow (GIF)
-![Cart Flow](https://user-images.githubusercontent.com/your-username/cart-flow.gif)
-
-### 🔐 Authentication Page
-![Auth Page](https://user-images.githubusercontent.com/your-username/auth-page.png)
-
-> _Note: Replace the above image links with your own screenshots or GIFs._
-
----
-
-## 📚 Learning Path
-
-- **Angular**: Component-driven development, RxJS, state management, routing.
-- **Node.js & Prisma**: RESTful APIs, ORM, authentication, backend architecture.
-- **MySQL**: Schema design, queries, joins, CRUD operations.
-- **MongoDB**: (Currently learning) NoSQL database concepts and integration.
-
----
-
 ## 🌟 Connect With Me
 
 Feel free to connect for collaboration or opportunities!
