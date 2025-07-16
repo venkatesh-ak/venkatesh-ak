@@ -1,6 +1,6 @@
-# 👨‍💻 Venkatesh AK - Angular Developer Portfolio
+# </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm Venkatesh
 
-Welcome to my portfolio! I am an **Angular Developer** with 2 years of experience, passionate about building scalable web applications and always eager to learn new technologies.
+I am an **Angular Developer** with 2 years of experience, passionate about building scalable web applications and always eager to learn new technologies.
 
 ---
 
