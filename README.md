@@ -25,7 +25,7 @@ I am an **Angular Developer** with 2 years of experience, passionate about build
 ---
 
 ## 🛒 [Mini Ecommerce Project](https://github.com/venkatesh-ak/mini-ecommerce)
-🛒 Ecommerce             8750 commits        ███████████████████████░░   90.00 %
+🛒 Ecommerce             19 commits        ███████████████████████░░   90.00 %
 
 A modern e-commerce web application built with Angular, Node.js, Prisma, and MySQL.  
 Frontend: Angular + Bootstrap  
