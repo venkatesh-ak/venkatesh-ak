@@ -24,10 +24,7 @@ Welcome to my portfolio! I am an **Angular Developer** with 2 years of experienc
 ---
 
 ## 🛒 [Mini Ecommerce Project](https://github.com/venkatesh-ak/mini-ecommerce)
-
-- **Status:** In Progress (90% Completed)
-- **Progress:**  
-  <img src="https://progress-bar.dev/90/?title=90%25+Complete&width=300&color=27ae60" alt="90% Complete" />
+🛒 Ecommerce             8750 commits        ███████████████████████░░   90.00 %
 
 A modern e-commerce web application built with Angular, Node.js, Prisma, and MySQL.  
 Frontend: Angular + Bootstrap  
