@@ -31,7 +31,6 @@ A modern e-commerce web application built with Angular, Node.js, Prisma, and MyS
 Frontend: Angular + Bootstrap  
 Backend: Node.js + Prisma  
 Database: MySQL  
-Currently integrating: MongoDB
 
 ---
 
