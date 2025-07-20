@@ -26,8 +26,8 @@ I am an **Angular Developer** with 2 years of experience, passionate about build
 🛒 Ecommerce             19 commits        ███████████████████████░░   90.00 %
 
 A modern e-commerce web application built with Angular, Node.js, Prisma, and MySQL.  
-Frontend: Angular + Bootstrap  
-Backend: Node.js + Prisma  
+Frontend: Angular + TailwindCss + nzZorro  
+Backend: Node.js + Prisma
 Database: MySQL  
 
 ---
