@@ -22,7 +22,7 @@ I am an **Angular Developer** with 2 years of experience, passionate about build
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
-## 🛒 [Mini Ecommerce Project](https://github.com/venkatesh-ak/mini-ecommerce)
+## 🛒 [Mini Ecommerce Project](https://github.com/venkatesh-ak/ecommerce-node-backend)
 🛒 Ecommerce             19 commits        ███████████████████████░░   90.00 %
 
 A modern e-commerce web application built with Angular, Node.js, Prisma, and MySQL.  
