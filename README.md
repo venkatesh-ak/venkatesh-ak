@@ -20,16 +20,7 @@ I am an **Angular Developer** with 2 years of experience, passionate about build
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
----
-
-## 🛒 [Mini Ecommerce Project](https://github.com/venkatesh-ak/ecommerce-node-backend)
-🛒 Ecommerce             19 commits        ███████████████████████░░   90.00 %
-
-A modern e-commerce web application built with Angular, Node.js, Prisma, and MySQL.  
-Frontend: Angular + TailwindCss + nzZorro  
-Backend: Node.js + Prisma
-Database: MySQL  
-
+  
 ---
 
 ## 🌟 Connect With Me
