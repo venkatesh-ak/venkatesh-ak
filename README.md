@@ -25,8 +25,6 @@ I am an **Angular Developer** with 2 years of experience, passionate about build
 
 ## 🌟 Connect With Me
 
-Feel free to connect for collaboration or opportunities!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/venkatesh-a-a2a095205/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/venkatesh-ak)
 
